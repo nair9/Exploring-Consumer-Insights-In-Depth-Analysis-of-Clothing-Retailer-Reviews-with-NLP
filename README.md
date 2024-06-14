@@ -17,3 +17,5 @@ By utilizing data tools, visual methods, and advanced NLP techniques, this analy
    - Analyzed positive reviews to identify strengths and successful aspects of the business, which can be leveraged for marketing strategies and product development efforts.
 
 Guided by a set of key questions, this analysis aims to uncover nuanced insights that inform strategic decision-making and drive continuous improvement. Through meticulous examination and interpretation of the data, we endeavor to shed light on the intricacies of customer sentiment and satisfaction within the online retail landscape.
+
+Visualization can be accessed here: [Tableau](https://public.tableau.com/app/profile/ashnair/viz/Review_Analysis_17181348267230/Dashboard1)
